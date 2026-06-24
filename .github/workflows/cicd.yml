@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "README.md"
+    #paths-ignore:
+    #  - "README.md"
 
   # Allows you to run the workflow manually
   workflow_dispatch:
@@ -48,6 +48,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      -
       - name: Checkout repository
         uses: actions/checkout@v4
 
