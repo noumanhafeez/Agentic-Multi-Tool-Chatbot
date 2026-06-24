@@ -232,6 +232,6 @@ This project is licensed under the **MIT License**.
 
 ### Nouman Hafeez
 
-AI Engineer | Mobile App Developer | Web Data Engineer
+AI Engineer | Machine Learning Engineer | Mobile App Developer | Web Data Engineer
 
 Focused on building scalable AI systems, agentic workflows, and intelligent applications.
